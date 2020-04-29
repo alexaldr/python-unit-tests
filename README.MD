@@ -6,5 +6,6 @@
 
 ### Objetos de estudo:
 - Biblioteca ```unittest```
+- Biblioteca ```unittest.mock```
 - Biblioteca ```pytest```
 - Biblioteca ```doctest```
